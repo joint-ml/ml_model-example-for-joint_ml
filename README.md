@@ -34,6 +34,4 @@ train_parameters = {
 }
 ```
 
-## Тестовые файлы:
-* [Датасет для федеративного обучения](https://wiki.astondevs.ru/download/attachments/60231091/creditcard.csv?version=1&modificationDate=1700660350862&api=v2)
-* [Однострочный датасет для веб-сервера](https://wiki.astondevs.ru/download/attachments/60231091/pred.csv?version=1&modificationDate=1700660293017&api=v2)
+### Тестовые файлы для обучения модели хранятся в папке dataset_examples
